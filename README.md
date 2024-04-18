@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @q-u-r-a-n
 - 👀 I’m interested in the mathematical structure of the Quran.
-- 🌱 I’m currently learning number theoy
-- 💞️ I’m looking to collaborate on QuranCode
+- 🌱 I’m currently learning number theoy.
+- 💞️ I’m looking to collaborate on QuranCode.
 - 📫 Telegram @qurancode
 - 😄 Ali Adams
 - ⚡ God >
